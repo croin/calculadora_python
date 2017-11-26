@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
-# programa que realiza calculos básicos
+# programa que realiza cálculos básicos
 
 
 if __name__ == "__main__":
-	print "bienvenido a la calculadora python"
-
+	printn "bienvenido a la calculadora python"
 	
