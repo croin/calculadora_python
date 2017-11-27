@@ -1,4 +1,4 @@
-## Qué falla encontraste?
-Qué falla encontraste :cry:
-## Sugieres alguna nueva función?
-tus aportes no hacen crecer :wink:
+## ¿Qué falla encontraste?
+:cry: Qué falla encontraste
+## ¿Sugieres alguna nueva función?
+:wink: tus aportes no hacen crecer
