@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 def suma():
-	num1 = int(raw_input("digite número 1"))
-	num2 = int(raw_input("digite número 2"))
+	num1 = int(raw_input("digite número 1_"))
+	num2 = int(raw_input("digite número 2_"))
 	
 	suma = num1 + num2
 	
