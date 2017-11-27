@@ -1,5 +1,5 @@
 ## Qué falla encontraste?
-:anguished:
+Qué falla encontraste :cry:
 
 ## Sugieres alguna nueva función?
-:wink:
+tus aportes no hacen crecer :wink:
