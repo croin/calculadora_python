@@ -10,7 +10,7 @@ def menu():
 
 	while opcion != 5:
 		opcion = int(raw_input("""escoja una opción
-		1)suma
+		1)suma (+)
 		5)Salir
 		:"""))
 		
